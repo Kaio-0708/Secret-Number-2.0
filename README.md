@@ -35,6 +35,7 @@ A interface do jogo é estilizada com um fundo em gradiente e uma imagem de fund
 ├── style.css          # Estilos CSS
 ├── app.js             # Lógica do jogo em JavaScript
 └── img/               # Imagens utilizadas no projeto
+```
 
 ## Autor
 
